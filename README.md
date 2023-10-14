@@ -3,7 +3,7 @@
 _Hải Phòng_
 **_Công nghệ thông tin_**
 [facebook](https://www.facebook.com/nkdungg10/)
-`design web with HTML, CSS, NodeJS, JS`
+`design web with HTML, CSS, ReactJS, JS`
 <!--
 **dngg2610/dngg2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
